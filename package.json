@@ -6,7 +6,7 @@
     "start": "node scrum_cards_server.js"
   },
   "dependencies": {
-    "npm": "~1.1.71",
+    "npm": "~1.4.3",
     "express": "~3.1.2",
     "socket.io": "~0.9.16",
     "yargs": "~1.2.1"
