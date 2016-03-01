@@ -16,10 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tsmith512/scrummy.git"
+    "url": "https://github.com/jeffward/scrummy.git"
   },
-  "subdomain": "playscrummy",
+  "subdomain": "exc-scrummy-ws101",
   "domains": [
-    "playscrummy.com"
+    "azurewebsites.net"
   ]
 }
